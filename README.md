@@ -14,9 +14,10 @@ I’m a developer and AI enthusiast with a solid foundation in Mathematics and S
 ### **Languages**
 - **Python**
 
-### **Libraries**
-- **NumPy**
-- **Pandas**
+### **Libraries and Frameworks**
+- ** **
+- ** **
+- ** **
 
 <!---
 vishesh-kumar-singh/vishesh-kumar-singh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
