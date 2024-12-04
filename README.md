@@ -18,6 +18,7 @@ I’m a developer and AI enthusiast with a solid foundation in Mathematics and S
 - **Numpy**
 - **Pandas**
 - **MatplotLib**
+- **Seaborn**
 
 <!---
 vishesh-kumar-singh/vishesh-kumar-singh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
