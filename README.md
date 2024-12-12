@@ -19,6 +19,8 @@ I’m a developer and AI enthusiast with a solid foundation in Mathematics and S
 - **Pandas**
 - **MatplotLib**
 - **Seaborn**
+- **Tensorflow**
+- **Keras**
 
 <!---
 vishesh-kumar-singh/vishesh-kumar-singh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
