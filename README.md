@@ -5,7 +5,7 @@
 ---
 
 ## 👋 Welcome to My GitHub Profile!  
-I’m a developer and AI enthusiast with a solid foundation in Mathematics and Scientific Computing, working on projects that merge analytical skills with cutting-edge technology.
+I’m a developer and AI enthusiast with a solid foundation in Mathematics and Scientific Computing, working on projects that merge analytical skills with cutting-edge technology. I have currently been exploring the domains of Machine Learning, Computer Vision and Natural Language Processing.
 
 ---
 
@@ -14,13 +14,15 @@ I’m a developer and AI enthusiast with a solid foundation in Mathematics and S
 ### **Languages**
 - **Python**
 
-### **Libraries and Frameworks**
+### **Major Libraries and Frameworks**
 - **Numpy**
 - **Pandas**
 - **MatplotLib**
 - **Seaborn**
+- **Scikit Learn**
 - **Tensorflow**
 - **Keras**
+- **Transformers**
 
 <!---
 vishesh-kumar-singh/vishesh-kumar-singh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
