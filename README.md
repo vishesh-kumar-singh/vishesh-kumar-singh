@@ -5,7 +5,7 @@
 ---
 
 ## 👋 Welcome to My GitHub Profile!  
-I’m a developer and AI enthusiast with a solid foundation in Mathematics and Scientific Computing, working on projects that merge analytical skills with cutting-edge technology. I have currently been exploring the domains of Machine Learning, Computer Vision and Natural Language Processing. And the repository on this profile is the collection of my projects I worked on while learning these technologies.
+I’m a developer and AI enthusiast with a solid foundation in Mathematics and Scientific Computing, working on projects that merge analytical skills with cutting-edge technology. I have currently been exploring the domains of Machine Learning, Computer Vision, Natural Language Processing and Reinforcement Learning. And the repository on this profile is the collection of my projects I worked on while learning these technologies.
 
 ---
 
