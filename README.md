@@ -4,11 +4,17 @@
 
 ---
 
-I’m a developer and AI enthusiast with a solid foundation in Mathematics and Scientific Computing, working on projects that merge analytical skills with cutting-edge technology. I have currently been exploring the domains of Machine Learning, Computer Vision, Natural Language Processing, and Reinforcement Learning. The repositories on this profile are a collection of my exploration among various domains.
+I am a sophomore at the Indian Institute of Technology, Kanpur, pursuing a B.S. in Mathematics and Scientific Computing. Currently, I am working with
+
+- Machine Learning & Natural Language Processing
+- Reinforcement Learning
+- Computational Neuroscience
 
 ---
+For more info kindly visit my homepage or LinkedIn profile as mentioned below:
 
-Linkedin: [thevishesh16](https://www.linkedin.com/in/thevishesh16/)
+- Home Page: [vishesh-kumar-singh.github.io](https://vishesh-kumar-singh.github.io)
+- Linkedin: [thevishesh16](https://www.linkedin.com/in/thevishesh16/)
 
 ---
 
