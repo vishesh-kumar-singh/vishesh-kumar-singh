@@ -11,7 +11,7 @@ I am a sophomore at the Indian Institute of Technology, Kanpur, pursuing a B.S. 
 ---
 For more info kindly visit my homepage or LinkedIn profile as mentioned below:
 
-- Home Page: [vishesh-kumar-singh.github.io](https://vishesh-kumar-singh.github.io)
+- Home Page: [vishesh-kumar-singh.github.io/classic](https://vishesh-kumar-singh.github.io/classic)
 - Linkedin: [thevishesh16](https://www.linkedin.com/in/thevishesh16/)
 
 ---
