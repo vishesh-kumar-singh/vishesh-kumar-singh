@@ -2,9 +2,9 @@
 <h3 align="center">Mathematics and Scientific Computing</h3>
 <h4 align="center">Indian Institute of Technology, Kanpur</h4>
 
-I am a sophomore at the Indian Institute of Technology, Kanpur, pursuing a B.S. in Mathematics and Scientific Computing. Currently, I am working with
+I am a junior undergraduate at the Indian Institute of Technology, Kanpur, pursuing a B.S. in Mathematics and Scientific Computing. Currently, I am working with
 
-- Machine Learning & Natural Language Processing
+- LLM Interpretability and Alignment
 - Reinforcement Learning
 - Computational Neuroscience
 
